@@ -2,11 +2,12 @@ Hello, Im Kelvin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giph
 
 <p>
   🤝Bienvenido al repositorio de Kelvin Becerra,
-🌱 Aqui encontraras por el momento trabajos realizados para la universidad, Metrovila es el proyecto mas reciente. 
+🌱 Aqui encontraras por el momento trabajos realizados para la universidad, Metrovila es el proyecto mas reciente, con aplicacion de firebase para el manejo de base de datos, autentificacion con google.
 Realizado un 50% por mi mismo.
-PokeApi:Consumo de Api con react usando la API de pokemon
+El proyecto de la pokeApi se implemento el consumo de la pokeapi 
+
 </p>
-<p>Para mas informacion...</p>
+
 
 
 
